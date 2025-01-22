@@ -14,3 +14,5 @@ Estoy repasando la clase de como funciona git fetch
 Estoy haciendo un Pull y Push
 
 Camnbios desde mi rama local llamada developer01
+
+Camnbios desde mi rama local llamada developer02
