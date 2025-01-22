@@ -10,3 +10,5 @@ Un commit mas desde GitHUB
 una actualizacion mas
 
 Estoy repasando la clase de como funciona git fetch
+
+Estoy haciendo un Pull y Push
