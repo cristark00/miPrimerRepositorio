@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: Bug report A
 about: Create a report to help us improve
 title: ''
 labels: ''
@@ -36,3 +36,6 @@ If applicable, add screenshots to help explain your problem.
 
 **Additional context**
 Add any other context about the problem here.
+AAA
+AAA
+AAA
